@@ -1,0 +1,117 @@
+.button {
+    font-size: 2.6vmin;
+    cursor: pointer;
+    border-width: initial;
+    background-color: rgb(133, 10, 10);
+    color: white;
+    border-style: none;
+    outline: none;
+    margin: 20px;
+    width: 1000px;
+    height: 100px;
+    border-radius: 100px;
+}
+
+.button:hover {
+    background-color: rgb(182, 46, 46);
+    cursor: pointer;
+}
+
+.right-button {
+    text-align: right;
+    margin-top: 10px
+}
+
+.l-r {
+    font-size: 2.6vmin;
+    cursor: pointer;
+    border-style: none;
+    color: white;
+    outline: none;
+    background-color: rgb(133, 10, 10);
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+}
+
+.l-r:hover {
+    background-color: rgb(182, 46, 46);
+    cursor: pointer;
+}
+
+.l-r:disabled {
+    background-color: rgb(49, 43, 43);
+    cursor: default;
+}
+
+.ls-button {
+    margin-top: 1rem;
+    font-size: 26px;
+    cursor: pointer;
+    border-style: double;
+    border-color: rgb(70, 0, 0);
+    color: white;
+    outline: none;
+    background-color: rgb(133, 10, 10);
+    border-radius: 10px;
+}
+.ls-button:hover {
+    background-color: rgb(182, 46, 46);
+    cursor: pointer;
+}
+
+
+
+
+
+.top-bar {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.page-navigation {
+    display: flex;
+    /* justify-content: center; */
+}
+
+
+
+
+.event-display {
+    margin-bottom: 100px
+}
+
+.event {
+    display:flex;
+    justify-content: left;
+}
+
+.game-image {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.event-details {
+    margin-top: -70px;
+    margin-left: 20px;
+    border-width: initial;
+    width: 1000px;
+    height: 100px;
+    background-color: rgb(133, 10, 10);
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.dropdown-games {
+    width: 150px;
+    padding: 5px 35px 5px 5px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    height: 34px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    /* background: url('./open.ico') 96% / 15% no-repeat #eee; */
+}

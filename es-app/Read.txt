@@ -1,0 +1,13 @@
+npm i react-expand-animated
+
+npm install --save react-spinners
+
+npm install react-spring
+
+npm install -g react-native-cli
+
+npm install --save react-native
+
+yarn add react-input-component
+
+npm install react-router-dom --save
