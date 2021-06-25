@@ -12,6 +12,4 @@ npm install react-spring
 npm install -g react-native-cli
 ```
 ## Notes
-I do not have the website up as of right now, but if you would like to see some visuals on it, feel free to visit my portfolio! (As of 3/2/21 I do not have my portfolio up, but it will be uploaded soon!)
-
-All of this was done with the help of [Pandascore](https://pandascore.co/). Simply create an account to get a free API key in which to put inside of your env file.
+All of this was done with the help of [Pandascore](https://pandascore.co/).
